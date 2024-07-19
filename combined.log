@@ -1,0 +1,174 @@
+2024-07-19 10:14:07 info: Starting test: should show error messages with empty credentials
+2024-07-19 10:14:07 info: Opened login page
+2024-07-19 10:14:09 info: Set username: standard_user
+2024-07-19 10:14:09 info: Set password: secret_sauce
+2024-07-19 10:14:09 info: Cleared username field
+2024-07-19 10:14:09 info: Cleared password field
+2024-07-19 10:14:09 info: Submitted the login form
+2024-07-19 10:14:10 info: Starting test: should show error messages with empty credentials
+2024-07-19 10:14:10 info: Opened login page
+2024-07-19 10:14:11 info: Set username: standard_user
+2024-07-19 10:14:11 info: Set password: secret_sauce
+2024-07-19 10:14:11 info: Cleared username field
+2024-07-19 10:14:11 info: Cleared password field
+2024-07-19 10:14:11 info: Submitted the login form
+2024-07-19 10:14:11 info: Captured error message: Epic sadface: Username is required
+2024-07-19 10:14:11 info: Verified error message
+2024-07-19 10:14:11 info: Starting test: should show error message when logging in without password
+2024-07-19 10:14:11 info: Opened login page
+2024-07-19 10:14:12 info: Set username: standard_user
+2024-07-19 10:14:12 info: Set password: secret_sauce
+2024-07-19 10:14:12 info: Cleared password field
+2024-07-19 10:14:12 info: Submitted the login form
+2024-07-19 10:14:12 info: Captured error message: Epic sadface: Password is required
+2024-07-19 10:14:12 info: Verified error message
+2024-07-19 10:14:12 info: Starting test: should login with valid credentials and validate dashboard title
+2024-07-19 10:14:12 info: Opened login page
+2024-07-19 10:14:12 info: Set username: standard_user
+2024-07-19 10:14:12 info: Set password: secret_sauce
+2024-07-19 10:14:13 info: Submitted the login form
+2024-07-19 10:14:13 info: Captured page title: Swag Labs
+2024-07-19 10:14:13 info: Verified page title
+2024-07-19 10:14:19 info: Starting test: should show error message when logging in without password
+2024-07-19 10:14:19 info: Opened login page
+2024-07-19 10:14:20 info: Set username: standard_user
+2024-07-19 10:14:20 info: Set password: secret_sauce
+2024-07-19 10:14:20 info: Cleared password field
+2024-07-19 10:14:20 info: Submitted the login form
+2024-07-19 10:14:30 info: Starting test: should login with valid credentials and validate dashboard title
+2024-07-19 10:14:30 info: Opened login page
+2024-07-19 10:14:30 info: Set username: standard_user
+2024-07-19 10:14:30 info: Set password: secret_sauce
+2024-07-19 10:14:30 info: Submitted the login form
+2024-07-19 10:14:30 info: Captured page title: Swag Labs
+2024-07-19 10:14:30 info: Verified page title
+2024-07-19 10:15:08 info: Starting test: should show error messages with empty credentials
+2024-07-19 10:15:08 info: Opened login page
+2024-07-19 10:15:09 info: Set username: standard_user
+2024-07-19 10:15:09 info: Set password: secret_sauce
+2024-07-19 10:15:09 info: Cleared username field
+2024-07-19 10:15:09 info: Cleared password field
+2024-07-19 10:15:10 info: Submitted the login form
+2024-07-19 10:15:10 info: Starting test: should show error messages with empty credentials
+2024-07-19 10:15:10 info: Opened login page
+2024-07-19 10:15:11 info: Set username: standard_user
+2024-07-19 10:15:11 info: Set password: secret_sauce
+2024-07-19 10:15:12 info: Cleared username field
+2024-07-19 10:15:12 info: Cleared password field
+2024-07-19 10:15:12 info: Submitted the login form
+2024-07-19 10:15:12 info: Captured error message: undefined
+2024-07-19 10:15:12 info: Starting test: should show error message when logging in without password
+2024-07-19 10:15:12 info: Opened login page
+2024-07-19 10:15:12 info: Set username: standard_user
+2024-07-19 10:15:12 info: Set password: secret_sauce
+2024-07-19 10:15:12 info: Cleared password field
+2024-07-19 10:15:12 info: Submitted the login form
+2024-07-19 10:15:12 info: Captured error message: undefined
+2024-07-19 10:15:12 info: Starting test: should login with valid credentials and validate dashboard title
+2024-07-19 10:15:12 info: Opened login page
+2024-07-19 10:15:12 info: Set username: standard_user
+2024-07-19 10:15:13 info: Set password: secret_sauce
+2024-07-19 10:15:13 info: Submitted the login form
+2024-07-19 10:15:13 info: Captured page title: Swag Labs
+2024-07-19 10:15:13 info: Verified page title
+2024-07-19 10:15:20 info: Starting test: should show error message when logging in without password
+2024-07-19 10:15:20 info: Opened login page
+2024-07-19 10:15:20 info: Set username: standard_user
+2024-07-19 10:15:20 info: Set password: secret_sauce
+2024-07-19 10:15:20 info: Cleared password field
+2024-07-19 10:15:20 info: Submitted the login form
+2024-07-19 10:15:30 info: Starting test: should login with valid credentials and validate dashboard title
+2024-07-19 10:15:30 info: Opened login page
+2024-07-19 10:15:30 info: Set username: standard_user
+2024-07-19 10:15:31 info: Set password: secret_sauce
+2024-07-19 10:15:31 info: Submitted the login form
+2024-07-19 10:15:31 info: Captured page title: Swag Labs
+2024-07-19 10:15:31 info: Verified page title
+2024-07-19 10:16:00 info: Starting test: should show error messages with empty credentials
+2024-07-19 10:16:00 info: Opened login page
+2024-07-19 10:16:02 info: Starting test: should show error messages with empty credentials
+2024-07-19 10:16:02 info: Opened login page
+2024-07-19 10:16:04 info: Set username: standard_user
+2024-07-19 10:16:04 info: Set password: secret_sauce
+2024-07-19 10:16:04 info: Cleared username field
+2024-07-19 10:16:04 info: Cleared password field
+2024-07-19 10:16:04 info: Submitted the login form
+2024-07-19 10:16:04 info: Captured error message: Epic sadface: Username is required
+2024-07-19 10:16:04 info: Verified error message
+2024-07-19 10:16:04 info: Starting test: should show error message when logging in without password
+2024-07-19 10:16:04 info: Opened login page
+2024-07-19 10:16:04 info: Set username: standard_user
+2024-07-19 10:16:04 info: Set password: secret_sauce
+2024-07-19 10:16:04 info: Cleared password field
+2024-07-19 10:16:05 info: Submitted the login form
+2024-07-19 10:16:05 info: Captured error message: Epic sadface: Password is required
+2024-07-19 10:16:05 info: Verified error message
+2024-07-19 10:16:05 info: Starting test: should login with valid credentials and validate dashboard title
+2024-07-19 10:16:05 info: Opened login page
+2024-07-19 10:16:05 info: Set username: standard_user
+2024-07-19 10:16:05 info: Set password: secret_sauce
+2024-07-19 10:16:05 info: Submitted the login form
+2024-07-19 10:16:05 info: Captured page title: Swag Labs
+2024-07-19 10:16:05 info: Verified page title
+2024-07-19 10:16:22 info: Set username: standard_user
+2024-07-19 10:16:23 info: Set password: secret_sauce
+2024-07-19 10:16:23 info: Cleared username field
+2024-07-19 10:16:23 info: Cleared password field
+2024-07-19 10:16:23 info: Submitted the login form
+2024-07-19 10:16:33 info: Starting test: should show error message when logging in without password
+2024-07-19 10:16:33 info: Opened login page
+2024-07-19 10:16:33 info: Set username: standard_user
+2024-07-19 10:16:33 info: Set password: secret_sauce
+2024-07-19 10:16:33 info: Cleared password field
+2024-07-19 10:16:33 info: Submitted the login form
+2024-07-19 10:16:43 info: Starting test: should login with valid credentials and validate dashboard title
+2024-07-19 10:16:43 info: Opened login page
+2024-07-19 10:16:44 info: Set username: standard_user
+2024-07-19 10:16:44 info: Set password: secret_sauce
+2024-07-19 10:16:44 info: Submitted the login form
+2024-07-19 10:16:44 info: Captured page title: Swag Labs
+2024-07-19 10:16:44 info: Verified page title
+2024-07-19 10:17:33 info: Starting test: should show error messages with empty credentials
+2024-07-19 10:17:33 info: Opened login page
+2024-07-19 10:17:35 info: Set username: standard_user
+2024-07-19 10:17:35 info: Set password: secret_sauce
+2024-07-19 10:17:35 info: Cleared username field
+2024-07-19 10:17:35 info: Cleared password field
+2024-07-19 10:17:35 info: Submitted the login form
+2024-07-19 10:17:36 info: Starting test: should show error messages with empty credentials
+2024-07-19 10:17:36 info: Opened login page
+2024-07-19 10:17:37 info: Set username: standard_user
+2024-07-19 10:17:37 info: Set password: secret_sauce
+2024-07-19 10:17:37 info: Cleared username field
+2024-07-19 10:17:37 info: Cleared password field
+2024-07-19 10:17:37 info: Submitted the login form
+2024-07-19 10:17:37 info: Captured error message: Epic sadface: Username is required
+2024-07-19 10:17:37 info: Verified error message
+2024-07-19 10:17:37 info: Starting test: should show error message when logging in without password
+2024-07-19 10:17:37 info: Opened login page
+2024-07-19 10:17:37 info: Set username: standard_user
+2024-07-19 10:17:38 info: Set password: secret_sauce
+2024-07-19 10:17:38 info: Cleared password field
+2024-07-19 10:17:38 info: Submitted the login form
+2024-07-19 10:17:38 info: Captured error message: Epic sadface: Password is required
+2024-07-19 10:17:38 info: Verified error message
+2024-07-19 10:17:38 info: Starting test: should login with valid credentials and validate dashboard title
+2024-07-19 10:17:38 info: Opened login page
+2024-07-19 10:17:38 info: Set username: standard_user
+2024-07-19 10:17:38 info: Set password: secret_sauce
+2024-07-19 10:17:38 info: Submitted the login form
+2024-07-19 10:17:38 info: Captured page title: Swag Labs
+2024-07-19 10:17:38 info: Verified page title
+2024-07-19 10:17:45 info: Starting test: should show error message when logging in without password
+2024-07-19 10:17:45 info: Opened login page
+2024-07-19 10:17:45 info: Set username: standard_user
+2024-07-19 10:17:46 info: Set password: secret_sauce
+2024-07-19 10:17:46 info: Cleared password field
+2024-07-19 10:17:46 info: Submitted the login form
+2024-07-19 10:17:56 info: Starting test: should login with valid credentials and validate dashboard title
+2024-07-19 10:17:56 info: Opened login page
+2024-07-19 10:17:56 info: Set username: standard_user
+2024-07-19 10:17:56 info: Set password: secret_sauce
+2024-07-19 10:17:56 info: Submitted the login form
+2024-07-19 10:17:56 info: Captured page title: Swag Labs
+2024-07-19 10:17:56 info: Verified page title
