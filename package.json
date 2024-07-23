@@ -21,6 +21,7 @@
     "wdio-geckodriver-service": "^5.0.2"
   },
   "dependencies": {
+    "dotenv": "^16.4.5",
     "winston": "^3.13.1"
   }
 }

@@ -1,19 +1,17 @@
+require('dotenv').config()
+
 module.exports = {
     validCredentials: {
-      username: 'standard_user',
-      password: 'secret_sauce'
+      username: process.env.VALID_USERNAME,
+      password: process.env.VALID_PASSWORD
     },
     emptyCredentials: {
-        username: '',
-        password: ''
+        username: process.env.EMPTY_USERNAME,
+        password: process.env.EPMTY_PASSWORD
       },
-    invalidCredentials: [
+    invalidCredentials: 
       {
-        username: 'invalidUser1',
-        password: 'invalidPass1'
-      },
-      {
-        username: 'invalidUser2',
-        password: 'invalidPass2'
-      }]
+        username: process.env.INVALID_USERNAME,
+        password: process.env.INVALID_PASSWORD
+      }
   };
